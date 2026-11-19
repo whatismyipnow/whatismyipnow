@@ -1,3 +1,5 @@
+<a href="https://whatismyipnow.com"><img width="1280" height="640" alt="WhatIsMyIPNow.com: free IP, DNS and network tools" src="https://github.com/user-attachments/assets/1f4a0326-0374-4ceb-8124-ad565639a5eb" /></a>
+
 # WhatIsMyIPNow
 
 Free IP, DNS and network tools at **[whatismyipnow.com](https://whatismyipnow.com)**:
