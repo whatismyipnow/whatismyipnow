@@ -8,14 +8,14 @@ find your IP, check DNS and email records, test VPN leaks. No sign-up.
 ## Your IP from a terminal
 
 ```sh
-curl https://ip.whatismyipnow.com        # IPv4 or IPv6, whichever your connection uses
-curl https://ipv4.whatismyipnow.com      # IPv4 only
-curl https://ipv6.whatismyipnow.com      # IPv6 only
-curl https://ip.whatismyipnow.com/json   # {"ip":"…"}
+curl ip.whatismyipnow.com          # your IP (IPv4 or IPv6, whichever your connection uses)
+curl ipv4.whatismyipnow.com        # IPv4 only
+curl ipv6.whatismyipnow.com        # IPv6 only
+curl ip.whatismyipnow.com/json     # {"ip":"…"}
 ```
 
 Plain text ending with a newline, no API key. Limit: 300 requests per 5 minutes per IP.
-Use `https://`: some providers answer plain-HTTP requests from their own proxy, which can show a different address.
+In scripts, prefer `https://ip.whatismyipnow.com`: some mobile networks answer plain HTTP from their own proxy, which then shows its address instead of yours.
 On Windows PowerShell, type `curl.exe` instead of `curl`.
 
 ## On the site
