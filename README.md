@@ -3,7 +3,7 @@
 # WhatIsMyIPNow
 
 Free IP, DNS and network tools at **[whatismyipnow.com](https://whatismyipnow.com)**:
-find your IP, check DNS and email records, test VPN leaks. No sign-up.
+find your IP, check DNS and email records, test DNS and WebRTC leaks. No sign-up.
 
 ## Your IP from a terminal
 
@@ -31,7 +31,7 @@ On Windows PowerShell, type `curl.exe` instead of `curl`.
 - [SPF](https://whatismyipnow.com/spf-lookup) · [DMARC](https://whatismyipnow.com/dmarc-checker) · [DKIM](https://whatismyipnow.com/dkim-checker) · [Email header analyzer](https://whatismyipnow.com/email-header-analyzer)
 
 **Privacy and security**
-- [WebRTC leak test](https://whatismyipnow.com/webrtc-leak-test) · [Proxy & VPN checker](https://whatismyipnow.com/proxy-checker) · [Browser fingerprint](https://whatismyipnow.com/browser-fingerprint-test)
+- [DNS leak test](https://whatismyipnow.com/dns-leak-test) · [WebRTC leak test](https://whatismyipnow.com/webrtc-leak-test) · [VPN & proxy checker](https://whatismyipnow.com/proxy-checker) · [Browser fingerprint](https://whatismyipnow.com/browser-fingerprint-test)
 - [SSL certificate checker](https://whatismyipnow.com/ssl-certificate-checker) · [HTTP header checker](https://whatismyipnow.com/http-header-checker) · [IP blacklist checker](https://whatismyipnow.com/ip-blacklist-checker)
 
 **[See all tools →](https://whatismyipnow.com/tools)**
